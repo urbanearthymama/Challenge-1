@@ -2,8 +2,10 @@
 # Overview
 Developer was asked to address accessability standards and to optimize for search engines.  Existing code required extensive cleanup. Attention was payed to correcting semantic elements, broken code and consolidation of redundancies. 
 
-# Website
+## Demo
+[Horiseon Social Solution Services](https://urbanearthymama.github.io/Challenge-1/)
 
 
 ### Screenshot 
-![screenshot](images/Horiseon-header.png)
+![screenshot](images/horiseon-header.png)
+![screenshot2](images/horiseon-body.png)
